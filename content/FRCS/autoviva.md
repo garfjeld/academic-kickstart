@@ -17,14 +17,14 @@ linktitle = "Example Page"
 
 In this tutorial, I'll share my top 10 tips for getting started with Academic:
 
-## Mechanics
+## [Mechanics](https://garfjeld.github.io/FRCSdefinitions/mechanics.html#/)
 
 Embedded reveal.js
 
-{{< rawhtml >}}
+<p>
   <iframe src="https://garfjeld.github.io/FRCSdefinitions/mechanics.html#/" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="580" height="326" allowfullscreen></iframe>
-  <p> thanks to @kn </p>
-{{< /rawhtml >}}
+</p>
+
 
 ## Tip 2
 
