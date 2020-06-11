@@ -22,7 +22,7 @@ In this tutorial, I'll share my top 10 tips for getting started with Academic:
 Embedded reveal.js
 
 <p>
-  <iframe src="https://garfjeld.github.io/FRCSdefinitions/mechanics.html#/" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="580" height="326" allowfullscreen></iframe>
+  <iframe src="https://garfjeld.github.io/FRCSdefinitions/mechanics.html#/" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="100%" height="100%" allowfullscreen></iframe>
 </p>
 
 
