@@ -1,5 +1,5 @@
 +++
-title = "Example Page"
+title = "Auto-Viva"
 
 date = 2018-09-09T00:00:00
 # lastmod = 2018-09-09T00:00:00
@@ -10,16 +10,16 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 linktitle = "Example Page"
-[menu.tutorial]
-  parent = "Example Topic"
+[menu.FRCS]
+  parent = "Auto-Viva"
   weight = 1
 +++
 
 In this tutorial, I'll share my top 10 tips for getting started with Academic:
 
-## Tip 1
+## Mechanics
 
-...
+Embedded reveal.js
 
 ## Tip 2
 

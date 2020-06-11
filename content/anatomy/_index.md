@@ -9,7 +9,7 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-[menu.tutorial]
+[menu.anatomy]
   name = "Week 1"
   weight = 1
 +++

@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 linktitle = "What does linktitle do?"
-[menu.tutorial]
+[menu.anatomy]
   parent = "Example Topic"
   weight = 1
 +++
