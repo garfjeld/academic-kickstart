@@ -25,17 +25,16 @@
 
   [[main]]
   name = "Tutorials"
-  url = "/tutorials/"
   identifier = "Tutorials"
 
   [[main]]
   name = "First Year Anatomy"
-  url = "/tutorials/anatomy/"
+  url = "/anatomy/"
   parent = "Tutorials"
 
   [[main]]
   name = "FRCS"
-  url = "/tutorials/FRCS/"
+  url = "/FRCS/"
   parent = "Tutorials"
 
 [[main]]
