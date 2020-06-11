@@ -23,6 +23,21 @@
   url = "#featured"
   weight = 40
 
+  [[main]]
+  name = "Tutorials"
+  url = "/tutorials/"
+  identifier = "Tutorials"
+
+  [[main]]
+  name = "First Year Anatomy"
+  url = "/tutorials/anatomy/"
+  parent = "Tutorials"
+
+  [[main]]
+  name = "FRCS"
+  url = "/tutorials/FRCS/"
+  parent = "Tutorials"
+
 [[main]]
   name = "Contact"
   url = "#contact"
