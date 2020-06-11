@@ -9,18 +9,18 @@ toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Week 2"
+linktitle = "What does linktitle do?"
 [menu.tutorial]
   parent = "Example Topic"
   weight = 1
 +++
 
-In this tutorial, I'll share my top 10 tips for getting started with Academic:
+In this tutorial, I'll share my top 10 tips for Aanatomy.
 
-## Tip 1
+## Bones
 
 ...
 
-## Tip 2
+## Ligaments
 
 ...
