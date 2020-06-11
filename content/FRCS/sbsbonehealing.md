@@ -19,7 +19,7 @@ In this tutorial, I'll share my top 10 tips for getting started with Academic:
 
 ## Step one
 
-![Test gif](/static/img/GIFTEST.gif)
+![Test gif](/static/img/giftest.gif)
 
 DRAW: A bone
 
