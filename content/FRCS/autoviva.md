@@ -10,7 +10,7 @@ type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
 [menu.FRCS]
-  parent = "Auto-Viva"
+  name = "Auto-Viva"
   weight = 1
 +++
 
