@@ -21,6 +21,8 @@ In this tutorial, I'll share my top 10 tips for getting started with Academic:
 
 Embedded reveal.js
 
+
+
 ## Tip 2
 
 ...
