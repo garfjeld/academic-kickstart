@@ -17,9 +17,9 @@ linktitle = "Ca Homeostasis"
 
 You want to quickly explain normal Ca homeostasis so you can get onto explaining disorders of Ca metabolism and their orthopaedic manifestations.
 
-# Scene Setting
+## Scene Setting
 
-## Say
+### Say
 
 Calcium is an important intra and extracellular ion:
 * Structural - Inorganic component of bone
@@ -36,13 +36,15 @@ Acting on three main target organs:
 * Kidney
 * Gut
 
-## Draw
+### Draw
+
+Three by three grid of the hormones and target organs.
 
 ![Three by three grid of the hormones and target organs](/img/sbs_ca_homeo_1.jpg)
 
-# Parathyroid hormone
+## Parathyroid hormone
 
-## Say
+### Say
 
 Parathyroid hormone secreted by chief cells in the parathyroid in response to low Ca or low Mg levels.
 
@@ -61,13 +63,15 @@ Acts on gut to increase Ca and Phos absorption:
 
 Net effect: Increase serum Ca, decrease serum Phos
 
-## Draw
+### Draw
+
+The source and stimulus for PTH, and it's target organ effects, with global net effect on serum Ca/Phos.
 
 ![The source and stimulus for PTH, and it's target organ effects, with global net effect on serum Ca/Phos](/img/sbs_ca_homeo_2.jpg)
 
-# 1,25 Vitamin D
+## 1,25 Vitamin D
 
-## Say
+### Say
 
 25 Vit D is activated to 1,25 Vit D in the proximal tubule of the kidney under influence of PTH, low Ca or low Phos.
 
@@ -77,13 +81,16 @@ Acts on the kut to strongly increase Ca and Phos absorption.
 
 Net effect: Increase serum Cal and Phos
 
-## Draw
+### Draw
+
+The source and stimulus for Vit D, and it's target organ effects on bone and gut, with global net effect on serum Ca/Phos.
 
 ![The source and stimulus for Vit D, and it's target organ effects on bone and gut, with global net effect on serum Ca/Phos](/img/sbs_ca_homeo_3.jpg)
 
-# Calcitonin
+## Calcitonin
 
-## Say
+### Say
+
 Secreted by thryroid parafollicular cells in response to raised Ca.
 
 Acts on bone by directly downregulating osteoclast activity
@@ -92,8 +99,12 @@ Acts on Kidney to transiently increase Ca and Phos excretion.
 
 Physiologically the role is not clear, but may assist in preventing post-prandial hypercalcaemia. Therapeutic calcitonin is used for Pagets disease and hypercalcaemia management, but this is in fact salmon derived which is 20-50 times more active than human derived.
 
-## Draw
+### Draw
+
+The source and stimulus for calcitonin, and it's target organ effects on bone and kidney, with global net effect on serum Ca/Phos.
 
 ![The source and stimulus for calcitonin, and it's target organ effects on bone and kidney, with global net effect on serum Ca/Phos](/img/sbs_ca_homeo_4.jpg)
 
-That is very basic Ca homeostasis, but use this as a prompt when discussing pathology.
+That is the basic principles of Ca/Phos homeostasis, but use this as a prompt when discussing pathology.
+
+![The source and stimulus for calcitonin, and it's target organ effects on bone and kidney, with global net effect on serum Ca/Phos](/img/sbs_ca_homeo_5.jpg)
