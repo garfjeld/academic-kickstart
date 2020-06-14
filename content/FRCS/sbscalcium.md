@@ -77,7 +77,7 @@ The source and stimulus for PTH, and it's target organ effects, with global net 
 
 Acts on the bone to indirectly increase osteoclast activity.
 
-Acts on the kut to strongly increase Ca and Phos absorption.
+Acts on the gut to strongly increase Ca and Phos absorption.
 
 Net effect: Increase serum Cal and Phos
 
@@ -107,4 +107,4 @@ The source and stimulus for calcitonin, and it's target organ effects on bone an
 
 That is the basic principles of Ca/Phos homeostasis, but use this as a prompt when discussing pathology.
 
-![The source and stimulus for calcitonin, and it's target organ effects on bone and kidney, with global net effect on serum Ca/Phos](/img/sbs_ca_homeo_5.jpg)
+![The source and stimulus for calcitonin, and it's target organ effects on bone and kidney, with global net effect on serum Ca/Phos](/img/sbs_ca_homeo_complete.jpg)
