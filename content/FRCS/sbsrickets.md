@@ -45,7 +45,7 @@ Usually managed with dietary replacement of Vitamin D.
 
 ### Draw
 Low Vitamin D uncouples its effect from PTH which supports Ca at the expense of Phos
-![Low Vitamin D uncouples its effect from PTH which supports Ca at the expense of Phos](/img/sbs_ca_rickets.jpg)
+![Low Vitamin D uncouples its effect from PTH which supports Ca at the expense of Phos](/img/sbs_ca_rickets.jpeg)
 
 ### Calcium and phosphate deficiencies
 
@@ -70,7 +70,7 @@ Similar feaures to Vitamin D deficient rickets, but tends to be more severe and 
 Treatment is by oral supplementation of *activated* 1,25 Vitamin D at physiological doses (1-2 microgram per day)
 
 ### Draw - Type 1
-![Type 1](/img/sbs_ca_hereditaryricketstype1.jpg)
+![Type 1](/img/sbs_ca_hereditaryricketstype1.jpeg)
 
 ### Say - Type 2
 1. Type 2 is also autosomal recessive, but affects the 1,25 Vitamin D *receptor*, blocking its end organ effects
@@ -81,4 +81,4 @@ Treatment is by oral supplementation of *activated* 1,25 Vitamin D at physiologi
 Treatment is high dose Vitamin D with elementary calcium.
 
 ### Draw - Type 2
-![Type 1](/img/sbs_ca_hereditaryricketstype2.jpg)
+![Type 1](/img/sbs_ca_hereditaryricketstype2.jpeg)
